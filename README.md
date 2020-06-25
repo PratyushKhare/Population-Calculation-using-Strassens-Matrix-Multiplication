@@ -11,6 +11,7 @@ Introduction:
 Problem Statement:
 
 Given the life table on lizards at time ‘k-1’ as follows:
+![Life Table](/images/1.png)
 Using Leslie Matrix and the concept of matrix multiplication, find number of lizards of each age group alive at time ‘k’.
 
 Working:
